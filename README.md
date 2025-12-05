@@ -60,7 +60,7 @@ A desktop productivity tool demonstrating object-oriented design, signals/slots,
 
 ## 📫 Let’s Connect
 📍 Ohio, USA  
-📧 maxxtheflash@yahoo.com  
+📧 maxtheflash@yahoo.com  
 💼 LinkedIn: https://linkedin.com/in/brandenmaxwell  
 🐦 X/Twitter: @Maxytheflash  
 
